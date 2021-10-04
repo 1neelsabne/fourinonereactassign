@@ -1,0 +1,87 @@
+{
+    "products": [{
+            "id": 1,
+            "pname": "Mouse",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/mouse.jpg"
+        },
+        {
+            "id": 2,
+            "pname": "Keyboard",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/keyboard.png"
+        },
+        {
+            "id": 3,
+            "pname": "CPU",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/cpu.png"
+        },
+        {
+            "id": 4,
+            "pname": "Speaker",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/speaker.png"
+        },
+        {
+            "id": 5,
+            "pname": "Pendrive",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/pendrive.jpg"
+        },
+        {
+            "id": 6,
+            "pname": "Projector",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/pro.jpg"
+        },
+        {
+            "id": 7,
+            "pname": "Monitor",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/monitor.jpg"
+        },
+        {
+            "id": 8,
+            "pname": "Printer",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/prin.png"
+        },
+        {
+            "id": 9,
+            "pname": "Table",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/table.jpeg"
+        },
+        {
+            "id": 10,
+            "pname": "Notebook",
+            "price": 310,
+            "quantity": 1,
+            "image": "images/note.jpg"
+        },
+        {
+            "id": 11,
+            "pname": "Router",
+            "price": 1200,
+            "quantity": 1,
+            "image": "images/router.png"
+        },
+        {
+            "id": 12,
+            "pname": "ROG Phone",
+            "price": 50000,
+            "quantity": 1,
+            "image": "images/rog.jpg"
+        }
+    ]
+}
